@@ -1,2 +1,2 @@
-# Flappy-Bird-Genetic-Algorithm
-Flappy Bird game with Genetic Algorithm
+# Flappy-Bird-NEAT
+AI teaches itself to play Flappy Bird implementing NEAT algorithm
